@@ -7,4 +7,4 @@ A computer science student from National Taiwan University
 
 ### Some Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonhung906e&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonhung906&layout=compact&show_icons=true&theme=tokyonight&langs_count=5&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
